@@ -1,231 +1,345 @@
-<!-- Stunning Animated Header with Particles -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,10:764ba2,30:f093fb,50:4facfe,70:00f2fe,100:43e97b&height=400&section=header&text=FARIT%20SINA&fontSize=70&fontColor=ffffff&fontAlignY=30&desc=✨%20Crafting%20Digital%20Magic%20with%20Code%20✨&descAlignY=50&descAlign=62&descSize=18&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=FARIT%20SINA&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%F0%9F%8E%93%20Computer%20Science%20Student%20%7C%20%F0%9F%9A%80%20Future%20Tech%20Innovator&descAlignY=55&descAlign=50&descSize=20" />
 </div>
 
-<!-- Multi-line Animated Typing with Beautiful Effects -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🌟+Welcome+to+My+Digital+Universe+🌟;Full-Stack+Developer+%7C+Code+Artist;Turning+Coffee+into+Code+☕+→+💻" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Welcome+to+my+digital+universe!;%F0%9F%92%BB+Crafting+code%2C+building+dreams;%F0%9F%8C%B1+Learning%2C+growing%2C+evolving+daily;%E2%9A%A1+Powered+by+curiosity+%26+innovation!" alt="Dynamic Typing" />
 </div>
 
-<!-- Glowing Profile Card -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<!-- Beautiful Introduction with Gradient Text Effect -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+I'm+Farit+👋;Cambodia's+Code+Wizard+🧙‍♂️;Welcome+to+my+profile!+⭐" />
-</h1>
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> **About Me**
 
-<!-- Animated Profile Stats with Neon Effect -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<!-- Holographic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎭 **Meet the Developer Behind the Magic**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="300"/>
-</div>
+<table align="center">
+<tr>
+<td width="50%">
 
 ```typescript
 interface Developer {
-  name: string;
-  location: string;
+  name: Sina Farit;
   role: string;
-  languages: string[];
-  currentMood: string;
-  lifePhilosophy: string;
+  location: Cambodia;
+  education: string;
+  year: 2025;
+  passion: string[];
+  currentFocus: string[];
+  futurePlans: string[];
+  motto: string;
 }
 
 const faritSina: Developer = {
   name: "Farit Sina",
+  role: "Software Engineering Student",
   location: "🇰🇭 Phnom Penh, Cambodia",
-  role: "Full-Stack Sorcerer 🧙‍♂️",
-  languages: ["JavaScript", "TypeScript", "Python", "C++"],
-  currentMood: "Coding & Conquering 🚀",
-  lifePhilosophy: "Code is poetry, bugs are just plot twists! 🎭"
+  education: "ISTAD - Advanced Development",
+  year: 2025,
+  
+  passion: [
+    "Problem Solving",
+    "Clean Code Architecture", 
+    "User Experience Design",
+    "Open Source Contribution"
+  ],
+  
+  currentFocus: [
+    "🔥 Full-Stack Development",
+    "📊 Data Structures & Algorithms",
+    "📱 Mobile App Development", 
+    "🗄️ Database Design & Management",
+    "☁️ Cloud Technologies"
+  ],
+  
+  futurePlans: [
+    "🎯 Master cutting-edge technologies",
+    "🚀 Launch innovative projects",
+    "🤝 Mentor fellow developers",
+    "💼 Join a world-class tech team",
+    "🌍 Impact millions through code"
+  ],
+  
+  motto: "Code with purpose, learn with passion! 💫"
 };
 
-console.log("Welcome to my digital realm! ✨");
+console.log("Ready to change the world! 🌟");
 ```
-
-<!-- Animated Rainbow Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎨 **My Magical Tech Palette**
-
-<!-- 3D Floating Tech Stack -->
-<div align="center">
-
-### **🎯 Frontend Wizardry**
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=30" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&logoWidth=30" />
-</p>
-
-### **⚡ Backend Sorcery**
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257455-616951e8-6025-4af1-87ae-d9d080741bde.gif" width="100">
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=30" />
-</p>
-
-### **🛠️ Developer Arsenal**
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=30" />
-</p>
-
-</div>
-
-<!-- Glowing Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🎯 **My Quest & Vision**
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🚀 **Current Missions**
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-🎯 **Mastering Advanced React Patterns**  
-⚡ **Building Lightning-Fast APIs**  
-🌟 **Creating Stunning UI/UX**  
-📚 **Contributing to Open Source**  
-🔥 **Learning Three.js & WebGL**
 
 </td>
 <td width="50%" align="center">
-
-### 🌟 **Future Vision**
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
-
-🏢 **Lead Development Teams**  
-🌍 **Build World-Changing Apps**  
-🎓 **Mentor Next-Gen Developers**  
-🚀 **Launch Tech Startup**  
-🇰🇭 **Elevate Cambodia's Tech Scene**
-
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450"/>
+  
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=faritsina&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
+  </div>
 </td>
 </tr>
 </table>
-</div>
 
-<!-- Neon GitHub Stats Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 **GitHub Universe Analytics**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45"> **Tech Arsenal**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-ac63e7ce7bba.gif" width="200">
-</div>
 
-<!-- Beautiful GitHub Stats Cards -->
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=faritsina&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=15"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faritsina&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15"/>
-</div>
+### 🚀 **Currently Mastering**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs&perline=7&theme=dark" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faritsina&theme=synthwave&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F8D866&sideLabels=F8D866&dates=FFFFFF&border_radius=15" alt="GitHub Streak"/>
-</div>
+### 💎 **Advanced Learning Track**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,mongodb,express,tailwind,prisma,graphql&perline=7&theme=dark" />
+</p>
 
-<!-- 3D Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faritsina&theme=synthwave&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=My%20Contribution%20Galaxy" alt="3D GitHub Activity Graph"/>
-</div>
+### 🎯 **Future Mastery Goals**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,tensorflow,flutter,firebase,redis&perline=7&theme=dark" />
+</p>
 
-<!-- Animated Trophies -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100">
-  <img src="https://github-profile-trophy.vercel.app/?username=faritsina&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100">
-</div>
+### 🛠️ **Development Environment**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux,discord&perline=7&theme=dark" />
+</p>
 
-<!-- Beautiful Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🌐 **Connect & Collaborate**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284077-2d6eb02a-365b-4b8b-b7c6-c73ba2a6ce85.gif" width="300">
 </div>
 
 <div align="center">
-  <a href="mailto:faritsina@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" height="50"/>
-  </a>
-  <a href="https://github.com/faritsina">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40" height="50"/>
-  </a>
-  <a href="https://linkedin.com/in/faritsina">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" height="50"/>
-  </a>
-  <a href="https://twitter.com/faritsina">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=40" height="50"/>
-  </a>
-
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&fontSize=16&lineCount=3&theme=github_dark&line1=Frontend:,html,css,js,react,nextjs;&line2=Backend:,nodejs,python,java,mongodb,express;&line3=Tools:,git,vscode,figma,docker,aws;" alt="My Tech Stack" />
 </div>
 
-<!-- Animated Quote with Neon Effect -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284103-29542eb7-75d2-40b9-84c3-4b5e9c0b7a8a.gif" width="100%">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Snake Game Animation -->
-<div align="center">
-  <h3>🐍 Watch My Contributions Get Eaten!</h3>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</div>
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="45"> **GitHub Analytics**
 
-<!-- Final Stats and Views -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a3d-a896-c6f85d73ddb7.gif" width="300">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=faritsina&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=💻%20Coding%20Statistics" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faritsina&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=faritsina&label=Cosmic%20Visitors&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/faritsina?label=Space%20Travelers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/faritsina?label=Collected%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faritsina&theme=radical&hide_border=true&layout=compact&custom_title=🔥%20Most%20Used%20Languages" />
 </div>
 
-<!-- Beautiful Footer -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faritsina&theme=react-dark&hide_border=true&point=00d9ff&line=00d9ff&color=ffffff&area=true&custom_title=📈%20Contribution%20Activity" width="95%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="45"> **Project Showcase**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+<h3>🎨 Portfolio Website</h3>
+<p><strong>Status:</strong> ✅ Live<br/>
+<strong>Focus:</strong> Responsive Design<br/>
+<strong>Tech:</strong> HTML5, CSS3, JavaScript</p>
+<a href="#"><img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+<h3>🎮 Interactive Game</h3>
+<p><strong>Status:</strong> ✅ Complete<br/>
+<strong>Focus:</strong> Game Logic<br/>
+<strong>Tech:</strong> JavaScript, Canvas API</p>
+<a href="#"><img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+<h3>📋 Task Manager</h3>
+<p><strong>Status:</strong> 🚧 In Progress<br/>
+<strong>Focus:</strong> CRUD Operations<br/>
+<strong>Tech:</strong> React, LocalStorage</p>
+<a href="#"><img src="https://img.shields.io/badge/View%20Project-FFA500?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+<h3>🌤️ Weather Dashboard</h3>
+<p><strong>Status:</strong> 📋 Planning<br/>
+<strong>Focus:</strong> API Integration<br/>
+<strong>Tech:</strong> React, REST APIs</p>
+<a href="#"><img src="https://img.shields.io/badge/Coming%20Soon-9333EA?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
+<h3>🛒 E-Commerce App</h3>
+<p><strong>Status:</strong> 💡 Concept<br/>
+<strong>Focus:</strong> Full-Stack Dev<br/>
+<strong>Tech:</strong> MERN Stack</p>
+<a href="#"><img src="https://img.shields.io/badge/Future%20Project-DC143C?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+<h3>📱 Mobile App</h3>
+<p><strong>Status:</strong> 🎯 Goal<br/>
+<strong>Focus:</strong> Cross-Platform<br/>
+<strong>Tech:</strong> React Native</p>
+<a href="#"><img src="https://img.shields.io/badge/2025%20Goal-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-ac63e7ce7bba.gif" width="45"> **Learning & Growth**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4d3d-a896-c6f85d73ddb7.gif" width="120"/>
+<h3>🎓 Current Studies</h3>
+<ul align="left">
+<li>🔍 Advanced Algorithms</li>
+<li>🌐 Web Development</li>
+<li>🎯 System Design</li>
+<li>📚 Software Architecture</li>
+</ul>
+</td>
+
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="120"/>
+<h3>🚀 2025 Milestones</h3>
+<ul align="left">
+<li>🎯 15+ Quality Projects</li>
+<li>🤝 Open Source Contributions</li>
+<li>💼 Secure Internship</li>
+<li>🏆 Coding Competitions</li>
+</ul>
+</td>
+
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284103-29542eb7-75d2-40b9-84c3-4b5e9c0b7a8a.gif" width="120"/>
+<h3>📈 Learning Method</h3>
+<ul align="left">
+<li>🛠️ Hands-on Projects</li>
+<li>📺 Interactive Courses</li>
+<li>👥 Peer Programming</li>
+<li>🔬 Experimentation</li>
+</ul>
+</td>
+
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120"/>
+<h3>🎪 Fun Side</h3>
+<ul align="left">
+<li>🎮 Game Development</li>
+<li>🎨 UI/UX Design</li>
+<li>🤖 AI Experiments</li>
+<li>📝 Tech Blogging</li>
+</ul>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284077-2d6eb02a-365b-4b8b-b7c6-c73ba2a6ce85.gif" width="45"> **Let's Connect & Collaborate**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<a href="mailto:faritsina@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="60"/>
+<br/><strong>📧 Email Me</strong>
+</a>
+</td>
+
+<td align="center" width="20%">
+<a href="https://linkedin.com/in/faritsina">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="60"/>
+<br/><strong>💼 LinkedIn</strong>
+</a>
+</td>
+
+<td align="center" width="20%">
+<a href="https://twitter.com/faritsina">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" height="60"/>
+<br/><strong>🐦 Twitter</strong>
+</a>
+</td>
+
+<td align="center" width="20%">
+<a href="https://github.com/faritsina">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="60"/>
+<br/><strong>💻 GitHub</strong>
+</a>
+</td>
+
+<td align="center" width="20%">
+<a href="https://discord.gg/yourhandle">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" height="60"/>
+<br/><strong>🎮 Discord</strong>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&reversal=false" width="100%"/>
+</div>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> **Random Facts & Vibes**
+
+<div align="center">
+
+🎓 **ISTAD Scholar** with a passion for revolutionary tech solutions  
+🌱 **Lifelong Learner** - Every challenge is a growth opportunity  
+🎯 **Vision-Driven** - Building tomorrow's digital experiences today  
+☕ **Coffee-Powered Coder** - Best code written at 2AM with caffeine  
+🎮 **Gaming Enthusiast** - From playing games to creating them  
+📚 **Knowledge Seeker** - Always diving deep into emerging technologies  
+🌟 **Optimistic Debugger** - Every bug is just an undocumented feature! 😄  
+🚀 **Dream Big, Code Bigger** - Transforming ideas into digital reality
+
+</div>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%2300d9ff&aColor=%23fff" alt="Jokes Card" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
   
-  <h2>⭐ Thanks for visiting my digital universe! ⭐</h2>
-  <h3>🚀 Let's build something amazing together! 🚀</h3>
+  <img src="https://komarev.com/ghpvc/?username=faritsina&color=00d9ff&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/faritsina?label=Followers&style=for-the-badge&color=764ba2&logo=github" />
+  <img src="https://img.shields.io/github/stars/faritsina?label=Stars&style=for-the-badge&color=ffd700&logo=github" />
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <h2>✨ Thanks for stopping by my digital space! ✨</h2>
+  <h3>🚀 Ready to build the future together? Let's connect! 🚀</h3>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%8C%9F+Student+Developer+%7C+Always+Innovating;%F0%9F%92%A1+Open+to+mentorship+%26+collaboration!;%F0%9F%93%AB+Let's+create+something+amazing+together!" alt="Footer Animation" />
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 </div>
 
-<!-- Stunning Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,10:764ba2,30:f093fb,50:4facfe,70:00f2fe,100:43e97b&height=200&section=footer&animation=twinkling"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&reversal=false&textBg=false" />
+</div>
