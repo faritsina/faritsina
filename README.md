@@ -189,9 +189,7 @@ console.log("Welcome to my digital realm! ✨");
   <a href="https://twitter.com/faritsina">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=40" height="50"/>
   </a>
-  <a href="https://instagram.com/faritsina">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=40" height="50"/>
-  </a>
+
 </div>
 
 <!-- Animated Quote with Neon Effect -->
